@@ -1,0 +1,183 @@
+baseURL = "https://send3dprintsend.com/"
+languageCode = "en-us"
+title = "Send 3D Print Send"
+theme = "printwire"
+
+[params]
+tagline       = "Send your design — we 3D print it — we send it back. Simple, fast, global."
+description   = "Send 3D Print Send is the file-to-door additive manufacturing platform — upload your 3D model, choose material and process, and receive your printed parts anywhere in the world."
+keywords      = "send 3D print, 3D print and ship, file to door printing, global 3D printing service, upload and ship 3D print, instant manufacturing platform"
+logoEmoji     = "📦"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#2563eb"
+colorPrimaryDark  = "#1d4ed8"
+colorPrimaryLight = "#60a5fa"
+colorBgDark       = "#020610"
+colorBgSection    = "#040a18"
+colorBgCard       = "#070f22"
+colorBgCardHover  = "#0b152e"
+
+fontPrimary   = "Inter"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"]
+
+heroEyebrow  = "File-to-Door Manufacturing"
+heroTitle    = "Send. <em>Print.</em> Send."
+heroSubtitle = "Send your design — we 3D print it — we send it back. Simple, fast, global."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+overviewTitle   = "The Simplest Manufacturing Platform"
+overviewText    = "Step 1: Send us your file. Step 2: We print it. Step 3: We send it to you. Anywhere. Any material. Any quantity. No account needed for a quote."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Send 3D Print Send Services"
+servicesSubtitle = "Send your design — we 3D print it — we send it back. Simple, fast, global."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Send your design — we 3D print it — we send it back. Simple, fast, global."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 3
+suffix = " steps"
+label  = "Entire Process"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Average Turnaround"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Countries We Ship To"
+
+[[params.stats]]
+count  = 20
+suffix = "+"
+label  = "Materials Available"
+
+
+[[params.applications]]
+title       = "Product Development"
+description = "Rapid physical models for product designers, startups, and product managers evaluating concepts."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Replacement Parts"
+description = "Send us a photo or drawing — we model and print your replacement part and ship it back."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Small Batch Production"
+description = "1–500 parts, no tooling, no minimum order. Just send the file."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "International Teams"
+description = "Distributed teams send one file — we ship parts to multiple addresses globally."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "📦"
+title       = "File Upload & Quote"
+description = "Upload STL, STEP, or OBJ — get an instant quote with material options, lead times, and shipping costs."
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "Any Material, Any Process"
+description = "FDM, SLA, SLS, and DMLS — polymer and metal printing with the right process for your application."
+
+[[params.servicesPreview]]
+icon        = "🌍"
+title       = "Global Shipping"
+description = "DHL, FedEx, and UPS shipping to 50+ countries — tracked from print to doorstep."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Bulk Discounts"
+description = "Volume pricing from 10 units — the more you print, the less you pay per part."
+
+
+[[params.services]]
+name        = "File Upload & Quote"
+description = "Upload STL, STEP, or OBJ — get an instant quote with material options, lead times, and shipping costs."
+icon        = "📦"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Any Material, Any Process"
+description = "FDM, SLA, SLS, and DMLS — polymer and metal printing with the right process for your application."
+icon        = "⚙️"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Global Shipping"
+description = "DHL, FedEx, and UPS shipping to 50+ countries — tracked from print to doorstep."
+icon        = "🌍"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Bulk Discounts"
+description = "Volume pricing from 10 units — the more you print, the less you pay per part."
+icon        = "◎"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintmetal.com"
+url         = "https://3dprintmetal.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
